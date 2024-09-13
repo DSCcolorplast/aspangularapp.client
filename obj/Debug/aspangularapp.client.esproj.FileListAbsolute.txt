@@ -1,0 +1,1 @@
+D:\Project\Angular Project\ASPangularApp\aspangularapp.client\obj\Debug\aspangularapp.client.esproj.CoreCompileInputs.cache
